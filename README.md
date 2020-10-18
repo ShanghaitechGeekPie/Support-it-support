@@ -28,7 +28,7 @@ issues will not be closed until it-support makes satisfied responses.
 <b> ⚠ 请注意：
 考虑到产品的安全，请不要将漏洞的复现步骤和受影响的文件通过公开的 GitHub Issues 提交。
 请将这部分内容发送到 pie@geekpie.club，同时附上到本 Issue 的链接。
-我们会在确认漏洞存在后抄送给图信，并在一周后公开公布漏洞细节。 </b>
+我们会在确认漏洞存在后抄送给图信，并在一个月后公开公布漏洞细节。 </b>
 
 # Github issues helper
 [Mastering Issues](https://guides.github.com/features/issues/)
